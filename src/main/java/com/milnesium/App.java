@@ -14,7 +14,7 @@ public class App
         engine.manufacturer="Toyota";
         engine.productionYear=2017;
 
-        Car car = new Car();
+        Car car = new Car(engine);
         car.name="Supra";
         car.fuelType="Gasoline";
         car.boostSpeed=true;
