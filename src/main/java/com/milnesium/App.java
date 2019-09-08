@@ -18,8 +18,8 @@ public class App
         car.name="Supra";
         car.fuelType="Gasoline";
         car.boostSpeed=true;
-        car.boostSpeedFactor=2;
-        car.boostConsumptionFactor=2;
+        car.boostSpeedFactor=1.4f;
+        car.boostConsumptionFactor=1.3f;
         car.internetConnection=true;
         car.dataScienceHelp=true;
         car.color="Red";
