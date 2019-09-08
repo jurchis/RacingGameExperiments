@@ -39,7 +39,7 @@ public class App
         motorcycle.boostSpeed = false;
         motorcycle.color = "Red";
 
-        //Vehicle class object
+        //Vehicle class object.
         Vehicle dray = new Vehicle();
         dray.boostSpeed = false;
         dray.mileage = 2;
